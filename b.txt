@@ -1,3 +1,4 @@
 creat new branch dev
 
-insert from branch master
+insert into branch dev
+
